@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+   <name>Make advanced outline</name>
+   <exec>make-advanced-outline.py</exec>
+</plugin>
